@@ -13,10 +13,12 @@ This project is for understanding how a neural network works.The code is in no w
   - mini-batch GD
   - SGD
 <br><br>
-Since GD algorithm has its own limitations and challenges like momentum or getting caught in local minima,we Will soon try to add more recent optmization methods like
+Since GD algorithm has its own limitations and challenges like momentum or getting caught in local minima,some advanced first-order optimisation methods were implemented.<br><br>methods  like:
 - SGD with momentum
 - Adagrad
 - Ada delta
 - Adam
 - RMS prop
+- Nadam
+And tested the  optimizers on a toy-dataset<br><br>
 <br><br>Later we Will also try to modify /add code for a Multi label classifier
