@@ -20,5 +20,10 @@ Since GD algorithm has its own limitations and challenges like momentum or getti
 - Adam
 - RMS prop
 - Nadam
-And tested the  optimizers on a toy-dataset<br><br>
-<br><br>Later we Will also try to modify /add code for a Multi label classifier
+<br><br>And tested the  optimizers on skelearn's toy-datasets and on some open Access datasets taken from UCI's repository<br><br>
+<br><br>
+**SUGGESTED IMPROVISATIONS:**
+- Try adding more layers especially for datasets with less features
+- Experiment with regularisation and the smoothing parameters
+- Could also make the code more generic that can handle multi-class multi-label clasification problems
+
